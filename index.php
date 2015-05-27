@@ -1,5 +1,7 @@
 <?php
 phpinfo();
 time();
-echo 234;
+echo 1234;
+echo 1111;
 ?>
+
